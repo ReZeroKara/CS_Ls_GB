@@ -1,0 +1,15 @@
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/bin/Debug/net6.0/project001_HelloConsole
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/bin/Debug/net6.0/project001_HelloConsole.deps.json
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/bin/Debug/net6.0/project001_HelloConsole.runtimeconfig.json
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/bin/Debug/net6.0/project001_HelloConsole.dll
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/bin/Debug/net6.0/project001_HelloConsole.pdb
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/project001_HelloConsole.csproj.AssemblyReference.cache
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/project001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/project001_HelloConsole.AssemblyInfoInputs.cache
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/project001_HelloConsole.AssemblyInfo.cs
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/project001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/project001_HelloConsole.dll
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/refint/project001_HelloConsole.dll
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/project001_HelloConsole.pdb
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/project001_HelloConsole.genruntimeconfig.cache
+/Users/stasostrovskiy/Documents/GeekBrains/Разработчик/1-ая четверть/Знакомство с языками программирования/lec_project_1/project001_HelloConsole/obj/Debug/net6.0/ref/project001_HelloConsole.dll
