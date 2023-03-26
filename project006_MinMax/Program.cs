@@ -1,4 +1,6 @@
-﻿int a = new Random().Next(1,10000);
+﻿//Программа нахождения максимального числа
+
+int a = new Random().Next(1,10000);
 int b = new Random().Next(1,10000);
 int c = new Random().Next(1,10000);
 int d = new Random().Next(1,10000);

@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello, New World!");
+﻿//Проверка работы .NET
+Console.WriteLine("Hello, New World!");

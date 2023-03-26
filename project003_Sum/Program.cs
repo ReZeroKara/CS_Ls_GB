@@ -1,4 +1,6 @@
-﻿int numberA = new Random().Next(1,1000);
+﻿//Программа сложения рандомных чисел
+
+int numberA = new Random().Next(1,1000);
 Console.WriteLine(numberA);
 int numberB = new Random().Next(1,1000);
 Console.WriteLine(numberB);

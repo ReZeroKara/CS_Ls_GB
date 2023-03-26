@@ -1,4 +1,6 @@
-﻿Console.Write("Введите ваше имя: ");
+﻿//Программа приветсвия определённых пользователей
+
+Console.Write("Введите ваше имя: ");
 string username = Console.ReadLine();
 
 if(username.ToLower() == "стас")
